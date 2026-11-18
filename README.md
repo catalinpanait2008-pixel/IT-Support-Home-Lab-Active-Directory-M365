@@ -22,7 +22,7 @@ Promoted `DC01-Server` to a Domain Controller for `witham-factory.local` and str
 ### 2. Network File Sharing & NTFS Permissions
 Configured a centralized shared directory (`Production_Reports`) on the server with custom sharing permissions to support cross-team collaboration between office and shop-floor staff.
 
-![Shared Folder Configuration](02-shared-folder.png)
+![Shared Folder Configuration](02-Shared-folder.png)
 
 ### 3. DNS Configuration & Network Connectivity Testing
 Configured static IP addressing on the server and pointed the client workstation (`PC01-Office`) to the internal DNS server. Verified name resolution and connectivity using `ping` diagnostics.
